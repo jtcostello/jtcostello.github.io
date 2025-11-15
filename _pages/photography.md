@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-I like to take landscape and sports photos. Here are some of my favorites.
+I like to take landscape and sports photos. More can be found on my [Instagram](https://www.instagram.com/joeycoutside/).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
